@@ -24,7 +24,7 @@ a:hover {
 /* Foooter section BEGIN */
 .note-footer {
     display: block;
-    background-color: rgba(238, 238, 238, 0.5);
+    background-color: var(--footer-bg);
     border-radius: 16px;
     margin-top: 24px;
     padding: 16px;
@@ -163,6 +163,7 @@ a:hover {
     --scrollbar-bg: rgba(0, 0, 0, 0.05);
     --scrollbar-thumb-bg: rgba(0, 0, 0, 0.1);
     --highlight-mix-blend-mode: darken;
+    --footer-bg: rgb(231, 242, 250);
     --dark: #141021;
 }
 
@@ -220,7 +221,7 @@ a:hover {
 footer {
     margin-top: 2em;
     text-align: center;
-    background-color: rgb(231, 242, 250);
+    background-color: var(--footer-bg);
     border-radius: 8px;
     padding: 4px;
 }
@@ -250,6 +251,25 @@ hr {
     color: var(--dark);
     background-color: var(--dark);
 }
+
+
+.markdown-rendered table:first-of-type {
+    font-size: 5pt;
+    background-color: var(--footer-bg);
+    color: var(--text-muted);
+    width: 100%;
+
+    border-radius: 16px;
+    margin-bottom: 24px;
+    padding: 16px;
+}
+
+.markdown-rendered table:first-of-type thead
+{
+    display: none;
+} 
+
+/* Varying screen sizes */
 
 @media screen and (max-width: 1200px) {
     .right-bar-container {
