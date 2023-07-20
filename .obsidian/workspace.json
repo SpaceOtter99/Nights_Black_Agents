@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Operatives/Dazzer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Operatives/Dazzer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/index.md",
+                "file": "posts/Operatives/Dazzer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/index.md"
+                "file": "posts/Operatives/Dazzer.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "f7cc2e22f45422b4",
   "lastOpenFiles": [
+    "posts/Operatives/Pierre.md",
+    "posts/index.md",
     "index.md",
     "Organisations/Russian Mafia.md",
     "Countries/Austria.md",
@@ -189,8 +191,6 @@
     "Countries/Italy.md",
     "Countries/Germany.md",
     "Countries/France.md",
-    "Countries/England.md",
-    "Countries/Croatia.md",
     "NightsBlackAgents",
     "NPCs/Fight NPCs",
     "CSIC.css",

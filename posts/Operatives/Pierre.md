@@ -5,3 +5,5 @@ allegiance: unknown
 tags: human, PC
 ---
 # Pierre
+
+Potentially [[France|French]]
