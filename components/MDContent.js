@@ -38,7 +38,21 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
     }
 
     useRouter();
-    return;
+    return (
+
+        <div className="markdown-rendered">
+            <div dangerouslySetInnerHTML={{__html: content}}/>
+            {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
+            {/*<hr/>*/}
+            <div>
+                <BackLinks linkList={backLinks}/>
+            </div>
+            <hr/>
+            <footer>
+                <p>Powered by  <a href="https://github.com/TuanManhCao/digital-garden">Mind Stone</a>, © 2022</p>
+            </footer>
+        </div>
+        );
 }
 
 export default MDContent;
