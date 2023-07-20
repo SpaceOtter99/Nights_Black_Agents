@@ -38,7 +38,7 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
     }
 
     useRouter();
-    return ();
+    return;
 }
 
 export default MDContent;
