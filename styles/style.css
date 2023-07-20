@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root {
-    --default-font: 'Open Sans', sans-serif;
+    --default-font: 'Karla', sans-serif;
+    --title-font: 'Alegreya', serif;
     --font-monospace: 'Source Code Pro', monospace;
 }
 
@@ -141,8 +143,9 @@ a:hover {
     --background-modifier-error-rgb: 230, 135, 135;
     --background-modifier-error-hover: #bb0000;
     --background-modifier-cover: rgba(0, 0, 0, 0.8);
-    --text-accent: rgba(201, 19, 133, 0.77);;
-    --text-accent-hover: #1ea2cc;
+    --text-accent: #7f0125;
+    --text-accent-hover: #fe024a;
+    --text-title: #919191;
     --text-normal: #232324;
     --text-muted: #8e8e90;
     --text-muted-rgb: 136, 136, 136;
@@ -174,6 +177,11 @@ a:hover {
     outline: none;
 }
 
+
+
+
+/* Headers & Text */
+
 .markdown-rendered h1,
 .markdown-rendered h2,
 .markdown-rendered h3,
@@ -181,26 +189,41 @@ a:hover {
 .markdown-rendered h5,
 .markdown-rendered h6 {
     margin: 15px 0;
+    font-family: var(--title-font);
+    color: var(--text-title);
 }
 
 .markdown-rendered h1 {
     font-size: 2.0em;
     font-weight: 800;
+    color: var(--text-accent);
+    text-align: center;
+
+    margin: 0.5em 0;
+
+    display: block;
+    border-top: 4px solid var(--text-accent);
+    border-bottom: 4px solid var(--text-accent);
+    width: 100%;
 }
 
 .markdown-rendered h2 {
     font-size: 1.6em;
-    font-weight: 800;
+    font-weight: 400;
+
+    margin-top: 0.5em;
+    border-bottom: 2px solid var(--text-normal);
+    width: 90%;
 }
 
 .markdown-rendered h3 {
     font-size: 1.4em;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .markdown-rendered h4 {
     font-size: 1.2em;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .markdown-rendered h5,
@@ -213,10 +236,20 @@ a:hover {
     color: var(--text-muted);
 }
 
+.markdown-rendered p {
+    text-align: justify;
+}
+
 .right-bar-container {
     display: block;
     padding: 0em 1em;
 }
+
+
+
+
+
+/* Footers */
 
 footer {
     margin-top: 2em;
@@ -259,6 +292,8 @@ hr {
     color: var(--text-muted);
     width: 100%;
 
+    line-height: normal;
+
     border-radius: 16px;
     margin-bottom: 24px;
     padding: 16px;
@@ -268,6 +303,10 @@ hr {
 {
     display: none;
 } 
+
+.markdown-rendered table:first-of-type td:first-child {
+  width: 15%;
+}
 
 /* Varying screen sizes */
 
