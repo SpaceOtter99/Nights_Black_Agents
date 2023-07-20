@@ -42,6 +42,7 @@
     "remark-parse": "^9.0.0",
     "remark-preset-lint-markdown-style-guide": "^4.0.0",
     "remark-rehype": "^10.1.0",
+    "remark-gfm": "^1.0.0",
     "remark-wiki-link": "^1.0.0",
     "to-vfile": "^6.1.0",
     "unified": "^9.2.0",
