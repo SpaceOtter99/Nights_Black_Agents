@@ -1,0 +1,102 @@
+/* Global Vars */
+:root {
+  --CSIC: #004480
+}
+
+body { 
+  text-align: justify;
+  text-transform: none;
+}
+
+/* Headings & Text */
+
+h1, h2, h3, h4 {
+  color: var(--CSIC);
+  mix-blend-mode: multiply;
+  filter: blur(.2px);
+}
+
+h3 {
+  border-bottom: var(--CSIC) 2px solid 
+}
+
+p {
+  font-size: 11pt;
+}
+
+a {
+  all: unset;
+  font-weight: bold;
+  color: #004480;
+  text-decoration: underline;
+}
+
+/* Decorative */
+.topRight
+{
+  position: absolute;
+  width: 50%;
+  top: 0;
+  right: 0;
+  height: 3cm;
+  padding: 1cm;
+  text-align: right;
+  text-transform: uppercase;
+  color: #444
+}
+
+.topRight p {
+  padding-bottom: 5px;
+  font-size: 6pt;
+}
+
+code {
+  all: unset;
+  background: black;
+  user-select: none;
+  border-left: black 2px solid;
+  border-right: black 2px solid;
+}
+
+
+
+
+/* Tables */
+table ttr:nth-child(odd){
+  background-color: rgba(0,0,0,0);
+}
+
+table ttr:nth-child(even){
+  background: none;
+}
+
+
+table ttr td:nth-child(even){
+  width: 5%;
+  text-align: center;
+  padding-right: 3%;
+  
+  border-right: var(--CSIC) 1px solid;
+  border-bottom: var(--CSIC) 1px solid;
+  border-top: var(--CSIC) 1px solid;
+}
+
+table ttr td:nth-child(odd){
+  width: 15%;
+  text-align: right;
+  padding-right: 0.2cm;
+  
+  border-left: var(--CSIC) 1px solid;
+  border-bottom: var(--CSIC) 1px solid;
+  border-top: var(--CSIC) 1px solid;
+}
+
+table ttr td:nth-child(odd):after{
+  content: ":"
+}
+
+table ttr td {
+  font-size: 10pt;
+  height: 0.5cm;
+  vertical-align: middle;
+}

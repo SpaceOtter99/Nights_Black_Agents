@@ -1,0 +1,21 @@
+{
+  "file-explorer:new-file": [],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:-template/<% tp.file.cursor %>.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "templater-obsidian:-template/Title Override.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
