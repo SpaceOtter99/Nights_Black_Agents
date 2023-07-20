@@ -190,6 +190,7 @@ a:hover {
 .markdown-rendered h6 {
     font-family: var(--title-font);
     color: var(--text-title);
+    margin: 0;
 }
 
 .markdown-rendered h1 {
@@ -244,10 +245,10 @@ a:hover {
 
 .markdown-rendered p {
     text-align: justify;
-    margin: none;
+    margin: 0;
 }
 
-.markdown-rendered p+p::first-line{
+.markdown-rendered p+p{
     text-indent: 0.5em;
 }
 
