@@ -4,7 +4,7 @@ jobs:
 allegiance: unknown
 tags: group
 ---
-
+# NATO
 The North Atlantic Treaty Organisation.
 
 Members include:

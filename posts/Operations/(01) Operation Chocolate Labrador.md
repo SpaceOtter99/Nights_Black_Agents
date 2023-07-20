@@ -3,7 +3,7 @@ aliases: 01
 jobs: 01
 tags: operation
 ---
-
+# Operation Chocolate Labrador
 [[Firebolt]] received an alert for a black-bag job involving a Canadian NATO member from an automated alert he had set up. The job is unusually well paid, and ties into [[Firebolt|Firebolt's]] existing interests.
 
 ## Session 1

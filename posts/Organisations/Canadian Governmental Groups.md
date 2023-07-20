@@ -4,11 +4,9 @@ jobs:
 allegiance: [[Canada]]
 tags: Group
 ---
+# Canadian Governmental Groups
 
-## Canadian Army
-
-## Canadian Airforce
-
-## Canadian Navy
-
-## Canadian Security Intelligence Service (CSIC)
+Canadian Army
+Canadian Airforce
+Canadian Navy
+Canadian Security Intelligence Service (CSIC)

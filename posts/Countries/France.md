@@ -4,7 +4,7 @@ jobs: 01
 allegiance: unknown
 tags: country
 ---
-
+# France
 Neighbours: [[Belgium]], [[Luxembourg]], [[Germany]], [[Switzerland]], [[Italy]], [[Monaco]], [[Spain]], [[Andorra]]
 
 

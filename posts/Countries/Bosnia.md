@@ -4,6 +4,7 @@ jobs: 01
 allegiance: unknown
 tags: country
 ---
+# Bosnia
 Neighbours: [[Croatia]], [[Serbia]], [[Montenegro]]
 
 ## Sarajevo
