@@ -28,7 +28,7 @@ a:hover {
     display: block;
     background-color: var(--footer-bg);
     border-radius: 16px;
-    margin-top: 24px;
+    margin-top: 5em;
     padding: 16px;
 }
 
@@ -188,7 +188,6 @@ a:hover {
 .markdown-rendered h4,
 .markdown-rendered h5,
 .markdown-rendered h6 {
-    margin: 15px 0;
     font-family: var(--title-font);
     color: var(--text-title);
 }
@@ -199,7 +198,8 @@ a:hover {
     color: var(--text-accent);
     text-align: center;
 
-    margin: 0.5em 0;
+    margin: 3em 0;
+    padding: 1em 0;
 
     display: block;
     border-top: 4px solid var(--text-accent);
@@ -211,7 +211,7 @@ a:hover {
     font-size: 1.6em;
     font-weight: 400;
 
-    margin-top: 0.5em;
+    margin-top: 1em;
     border-bottom: 2px solid var(--text-normal);
     width: 90%;
 }
@@ -219,11 +219,17 @@ a:hover {
 .markdown-rendered h3 {
     font-size: 1.4em;
     font-weight: 400;
+
+    margin-top: 0.5em;
+    border-bottom: 2px solid var(--text-normal);
+    width: 50%;
 }
 
 .markdown-rendered h4 {
     font-size: 1.2em;
     font-weight: 400;
+
+    margin-top: 0.5em;
 }
 
 .markdown-rendered h5,
@@ -238,6 +244,11 @@ a:hover {
 
 .markdown-rendered p {
     text-align: justify;
+    margin: none;
+}
+
+.markdown-rendered p+p::first-line{
+    text-indent: 0.5em;
 }
 
 .right-bar-container {
@@ -295,7 +306,7 @@ hr {
     line-height: normal;
 
     border-radius: 16px;
-    margin-bottom: 24px;
+    margin-bottom: 5em;
     padding: 16px;
 }
 
