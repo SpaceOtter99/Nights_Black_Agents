@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organisations/Canadian Governmental Groups.md",
+                "file": "posts/index.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -24,12 +23,8 @@
             "id": "dca1f80cc2ed7efd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Countries/Austria.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisations/Canadian Governmental Groups.md",
+                "file": "posts/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisations/Canadian Governmental Groups.md",
+                "file": "posts/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organisations/Canadian Governmental Groups.md"
+                "file": "posts/index.md"
               }
             }
           },
           {
-            "id": "4b30e795047377fe",
+            "id": "66db3e90d99c8222",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
