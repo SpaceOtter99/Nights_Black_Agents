@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { useRouter } from 'next/router';
-import styles from './treeStyles.css'; // Import the CSS file
 
 const TreeNode = ({ node, onSelect }) => {
   const [isExpanded, setIsExpanded] = useState(true);
