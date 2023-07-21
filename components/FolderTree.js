@@ -6,6 +6,15 @@ import TreeItem from '@mui/lab/TreeItem';
 import {useRouter} from 'next/router'
 import {styled} from '@mui/material/styles';
 
+const TCTreeItem = styled(TreeItem)(({theme}) => ({
+    '& .MuiTreeItem-content': {
+        '& .MuiTreeItem-label': {
+            fontSize: '1rem'
+        },
+    },
+}))
+
+
 export default function FolderTree(props) {
     const renderTree = (nodes) => {
         if (nodes.name === "post") {
