@@ -63,6 +63,8 @@ export function getStaticProps({params}) {
       };
     });
 
+    console.log(flattenNodes)
+
     const listOfEdges =   edges.filter(anEdge => anEdge.target === params.id)
     const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
     const backLinks = [...new Set(internalLinks)]
