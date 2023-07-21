@@ -17,12 +17,13 @@ const TreeNode = ({ node, onSelect }) => {
   };
 
   return (
-    <div className="tree-node">
+    <div className={`tree-node ${isExpanded ? 'expanded' : ''}`}>
       <div onClick={handleToggle}>
         {hasChildren && (isExpanded ? '-' : '+')} {node.name}
       </div>
-      <div className={`tree-node-children ${isExpanded && hasChildren ? 'expanded' : ''}`}>
-        { node.children.map((childNode) => (
+      <div className="tree-node-children">
+        {hasChildren &&
+          node.children.map((childNode) => (
             <TreeNode key={childNode.id} node={childNode} onSelect={onSelect} />
           ))}
       </div>

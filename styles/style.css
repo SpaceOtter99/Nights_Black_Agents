@@ -261,9 +261,14 @@ a:hover {
 /* Tree Items */
 
 .tree-node-children {
-    height: auto;
+    height: 0;
     overflow: hidden;
     transition: height .5s ease-in-out
+}
+
+.expanded > .tree-node-children {
+    height: auto;
+    transition: height .5s ease-in-out;
 }
 
 .tree-node {
