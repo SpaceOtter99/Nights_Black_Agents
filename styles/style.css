@@ -260,24 +260,14 @@ a:hover {
 
 /* Tree Items */
 
-ul[role="tree"]>*{
-  font-size: 1rem;
-  padding-left: 6px;
-  font-family: var(--default-font);
-  line-height: 2.0;
+.tree-node-children {
+  height: auto;
+  overflow: hidden;
+  transition: height 0.5s ease-in-out;
 }
 
-.MuiTreeItem-group {
-    border-left: 1px solid var(--background-secondary-alt);
-} 
-
-.Mui-selected {
-    background-color: var(--background-secondary-alt);
-}
-
-.Mui-selected .MuiTreeItem-label
-{
-    font-weight: bold;
+.tree-node > .tree-node {
+    margin-left: 20px;
 }
 
 /* Footers */

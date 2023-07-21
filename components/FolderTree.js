@@ -1,8 +1,11 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useRouter } from 'next/router';
+import styles from './treeStyles.css'; // Import the CSS file
 
 const TreeNode = ({ node, onSelect }) => {
+  const [isExpanded, setIsExpanded] = useState(true);
   const hasChildren = Array.isArray(node.children) && node.children.length > 0;
+  const router = useRouter();
 
   const handleSelect = () => {
     if (onSelect) {
@@ -10,18 +13,28 @@ const TreeNode = ({ node, onSelect }) => {
     }
   };
 
+  const handleToggle = () => {
+    setIsExpanded((prevExpanded) => !prevExpanded);
+  };
+
   return (
-    <div>
-      <div onClick={handleSelect} style={{ cursor: 'pointer' }}>
-        {node.name}
+    <div className="tree-node">
+      <div onClick={handleToggle}}>
+        {hasChildren && (isExpanded ? '-' : '+')} {node.name}
       </div>
-      {hasChildren &&
-        node.children.map((childNode) => (
-          <TreeNode key={childNode.id} node={childNode} onSelect={onSelect} />
-        ))}
+      <div className={`tree-node-children ${isExpanded && hasChildren ? 'expanded' : ''}`}>
+        {isExpanded &&
+          hasChildren &&
+          node.children.map((childNode) => (
+            <TreeNode key={childNode.id} node={childNode} onSelect={onSelect} />
+          ))}
+      </div>
     </div>
   );
 };
+
+export default TreeNode;
+
 
 export default function FolderTree(props) {
   const router = useRouter();
