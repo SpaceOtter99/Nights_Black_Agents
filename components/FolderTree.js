@@ -6,26 +6,21 @@ import TreeItem from '@mui/lab/TreeItem';
 import {useRouter} from 'next/router'
 import {styled} from '@mui/material/styles';
 
-const TCTreeItem = styled(TreeItem)(({theme}) => ({
-    '& .MuiTreeItem-content': {
-        '& .MuiTreeItem-label': {
-            fontSize: '1rem',
-            paddingLeft: '6px',
-            fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,',
-            lineHeight: 2.0,
-        },
-    },
-}))
-
-
 export default function FolderTree(props) {
-    const renderTree = (nodes) => (
-        <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
+    const renderTree = (nodes) => {
+        if (nodes.name === "post") {
+          // Render only the children of the "post" folder directly
+          return nodes.children.map((node) => renderTree(node));
+        }
+
+        return (
+          <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
             {Array.isArray(nodes.children)
-                ? nodes.children.map((node) => renderTree(node))
-                : null}
-        </TCTreeItem>
-    );
+              ? nodes.children.map((node) => renderTree(node))
+              : null}
+          </TCTreeItem>
+        );
+    };
 
     const router = useRouter()
     // const childrenNodeIds = props.tree.children.map(aNode => {return aNode.id})

@@ -194,8 +194,9 @@ a:hover {
 }
 
 .markdown-rendered h1 {
-    font-size: 2.0em;
+    font-size: 2.5em;
     font-weight: 800;
+    font-variant: small-caps;
     color: var(--text-accent);
     text-align: center;
 
@@ -213,7 +214,7 @@ a:hover {
     font-weight: 400;
 
     margin-top: 1em;
-    border-bottom: 4px solid var(--text-normal);
+    border-bottom: 4px solid var(--text-title);
     width: 90%;
 }
 
@@ -222,7 +223,7 @@ a:hover {
     font-weight: 400;
 
     margin-top: 1em;
-    border-bottom: 2px solid var(--text-normal);
+    border-bottom: 2px solid var(--text-title);
     width: 50%;
 }
 
@@ -257,9 +258,24 @@ a:hover {
     padding: 0em 1em;
 }
 
+/* Tree Items */
 
+.TCTreeItem .MuiTreeItem-content .MuiTreeItem-label {
+  font-size: 1rem;
+  padding-left: 6px;
+  font-family: var(--default-font);
+  line-height: 2.0;
+}
 
+.MuiTreeItem-group {
+    border-left: 1px solid var(--background-secondary-alt);
+} 
 
+.Mui-selected .MuiTreeItem-label
+{
+    background-color: var(--background-secondary-alt);
+    font-weight: bold;
+}
 
 /* Footers */
 
