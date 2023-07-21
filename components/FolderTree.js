@@ -19,7 +19,7 @@ const TreeNode = ({ node, onSelect }) => {
 
   return (
     <div className="tree-node">
-      <div onClick={handleToggle}}>
+      <div onClick={handleToggle}>
         {hasChildren && (isExpanded ? '-' : '+')} {node.name}
       </div>
       <div className={`tree-node-children ${isExpanded && hasChildren ? 'expanded' : ''}`}>
