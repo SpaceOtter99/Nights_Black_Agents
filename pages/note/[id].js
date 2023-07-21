@@ -49,7 +49,7 @@ export async function getStaticPaths() {
 // Function to remove last 3 letters from the "name" entries in the tree
 function removeLast3LettersFromNames(tree) {
   // If the current node has children, recursively process each child node
-  if (Array.isArray(tree.children)) {
+  if (Array.isArray(tree.children)  && tree.children.length > 0) {
     tree.children.forEach((child) => removeLast3LettersFromNames(child));
   }
   else
