@@ -1,51 +1,43 @@
-import * as React from 'react';
-import TreeView from '@mui/lab/TreeView';
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
-import TreeItem from '@mui/lab/TreeItem';
-import {useRouter} from 'next/router'
+import React from 'react';
+import { useRouter } from 'next/router';
 
+const TreeNode = ({ node, onSelect }) => {
+  const hasChildren = Array.isArray(node.children) && node.children.length > 0;
 
+  const handleSelect = () => {
+    if (onSelect) {
+      onSelect(node);
+    }
+  };
+
+  return (
+    <div>
+      <div onClick={handleSelect} style={{ cursor: 'pointer' }}>
+        {node.name}
+      </div>
+      {hasChildren &&
+        node.children.map((childNode) => (
+          <TreeNode key={childNode.id} node={childNode} onSelect={onSelect} />
+        ))}
+    </div>
+  );
+};
 
 export default function FolderTree(props) {
-    const renderTree = (nodes) => {
-        if (nodes.name === "post") {
-          // Render only the children of the "post" folder directly
-          return nodes.children.map((node) => renderTree(node));
-        }
+  const router = useRouter();
+  const expandedNodes = [props.tree.id];
 
-        return (
-          <TreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
-            {Array.isArray(nodes.children)
-              ? nodes.children.map((node) => renderTree(node))
-              : null}
-          </TreeItem>
-        );
-    };
+  const handleNodeSelect = (selectedNode) => {
+    if (selectedNode.routePath) {
+      router.push(selectedNode.routePath);
+    }
+  };
 
-    const router = useRouter()
-    // const childrenNodeIds = props.tree.children.map(aNode => {return aNode.id})
-    const expandedNodes = [props.tree.id]
-    return (
-        <TreeView
-            aria-label="rich object"
-            defaultCollapseIcon={<ExpandMoreIcon/>}
-            defaultExpanded={expandedNodes}
-            defaultExpandIcon={<ChevronRightIcon/>}
-            onNodeSelect={(event, nodIds) => {
-                const currentNode = props.flattenNodes.find(aNode => {
-                    return aNode.id === nodIds
-                })
-                // console.log(event)
-                // console.log(currentNode)
-                if (currentNode != null && currentNode.routePath != null) {
-                    router.push(currentNode.routePath)
-                    // router.reload()
-                }
-            }}
-            sx={{flexGrow: 1, maxWidth: 400, overflowY: 'auto'}}
-        >
-            {renderTree(props.tree)}
-        </TreeView>
-    );
+  return (
+    <div style={{ flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}>
+      {props.tree.children.map((node) => (
+        <TreeNode key={node.id} node={node} onSelect={handleNodeSelect} />
+      ))}
+    </div>
+  );
 }
