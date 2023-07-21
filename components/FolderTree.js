@@ -22,9 +22,7 @@ const TreeNode = ({ node, onSelect }) => {
         {hasChildren && (isExpanded ? '-' : '+')} {node.name}
       </div>
       <div className={`tree-node-children ${isExpanded && hasChildren ? 'expanded' : ''}`}>
-        {isExpanded &&
-          hasChildren &&
-          node.children.map((childNode) => (
+        { node.children.map((childNode) => (
             <TreeNode key={childNode.id} node={childNode} onSelect={onSelect} />
           ))}
       </div>

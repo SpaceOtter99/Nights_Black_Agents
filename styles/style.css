@@ -261,13 +261,14 @@ a:hover {
 /* Tree Items */
 
 .tree-node-children {
-  height: auto;
-  overflow: hidden;
-  transition: height 0.5s ease-in-out;
+    height: auto;
+    overflow: hidden;
+    transition: height .5s ease-in-out
 }
 
-.tree-node > .tree-node {
+.tree-node {
     margin-left: 20px;
+    cursor: pointer;
 }
 
 /* Footers */
