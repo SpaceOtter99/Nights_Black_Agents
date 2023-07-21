@@ -51,8 +51,17 @@ const {nodes, edges} = constructGraphData()
 export function getStaticProps({params}) {
     const note = getSinglePost(params.id);
     const tree = convertObject(getDirectoryData());
-    const flattenNodes = getFlattenArray(tree)
-    console.log(flattenNodes)
+    const flattenNodesMD = getFlattenArray(tree)
+    const flattenNodes = flattenNodesMD.map((item) => {
+      // Remove the last 3 characters from the "name" entry
+      const modifiedName = item.name.slice(0, -3);
+      
+      // Return a new object with the modified "name" entry and other properties as-is
+      return {
+        ...item,
+        name: modifiedName,
+      };
+    });
 
     const listOfEdges =   edges.filter(anEdge => anEdge.target === params.id)
     const internalLinks = listOfEdges.map(anEdge => nodes.find(aNode => aNode.slug === anEdge.source)).filter(element => element !== undefined)
