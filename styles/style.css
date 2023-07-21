@@ -260,7 +260,7 @@ a:hover {
 
 /* Tree Items */
 
-.TCTreeItem .MuiTreeItem-content .MuiTreeItem-label {
+ul[role="tree"]>*{
   font-size: 1rem;
   padding-left: 6px;
   font-family: var(--default-font);
@@ -271,9 +271,12 @@ a:hover {
     border-left: 1px solid var(--background-secondary-alt);
 } 
 
+.Mui-selected {
+    background-color: var(--background-secondary-alt);
+}
+
 .Mui-selected .MuiTreeItem-label
 {
-    background-color: var(--background-secondary-alt);
     font-weight: bold;
 }
 
