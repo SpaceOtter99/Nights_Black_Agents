@@ -6,14 +6,6 @@ import TreeItem from '@mui/lab/TreeItem';
 import {useRouter} from 'next/router'
 import {styled} from '@mui/material/styles';
 
-const TCTreeItem = styled(TreeItem)(({theme}) => ({
-    '& .MuiTreeItem-content': {
-        '& .MuiTreeItem-label': {
-            fontSize: '1rem'
-        },
-    },
-}))
-
 
 export default function FolderTree(props) {
     const renderTree = (nodes) => {
@@ -23,11 +15,11 @@ export default function FolderTree(props) {
         }
 
         return (
-          <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
+          <TreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
             {Array.isArray(nodes.children)
               ? nodes.children.map((node) => renderTree(node))
               : null}
-          </TCTreeItem>
+          </TreeItem>
         );
     };
 
