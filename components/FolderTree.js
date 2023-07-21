@@ -4,18 +4,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import TreeItem from '@mui/lab/TreeItem';
 import {useRouter} from 'next/router'
-import {styled} from '@mui/material/styles';
 
-const TCTreeItem = styled(TreeItem)(({theme}) => ({
-    '& .MuiTreeItem-content': {
-        '& .MuiTreeItem-label': {
-            fontSize: '1rem',
-            paddingLeft: '6px',
-            fontFamily: var(--default-font)
-            lineHeight: 2.0,
-        },
-    },
-}))
 
 
 export default function FolderTree(props) {
@@ -26,11 +15,11 @@ export default function FolderTree(props) {
         }
 
         return (
-          <TCTreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
+          <TreeItem key={nodes.id} nodeId={nodes.id} label={nodes.name}>
             {Array.isArray(nodes.children)
               ? nodes.children.map((node) => renderTree(node))
               : null}
-          </TCTreeItem>
+          </TreeItem>
         );
     };
 
