@@ -7,19 +7,17 @@ const TreeNode = ({ node, onSelect }) => {
   const router = useRouter();
 
   const handleSelect = () => {
+    setIsExpanded((prevExpanded) => !prevExpanded);
     if (onSelect) {
       onSelect(node);
     }
   };
 
-  const handleToggle = () => {
-    setIsExpanded((prevExpanded) => !prevExpanded);
-  };
-
   return (
     <div className={`tree-node ${isExpanded ? 'expanded' : ''}`}>
-      <div onClick={handleToggle}>
-        {hasChildren && (isExpanded ? '-' : '+')} {node.name}
+      <div onClick={handleSelect}>
+        {hasChildren && (isExpanded ? <span dangerouslySetInnerHTML={{ __html: '&minus;' }} /> : '+')}{' '}
+        {node.name}
       </div>
       <div className="tree-node-children">
         {hasChildren &&
