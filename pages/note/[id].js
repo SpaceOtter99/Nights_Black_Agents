@@ -46,22 +46,26 @@ export async function getStaticPaths() {
     };
 }
 
+// Function to remove last 3 letters from the "name" entries in the tree
+function removeLast3LettersFromNames(tree) {
+  // Modify the "name" entry for the current node
+  tree.name = tree.name.slice(0, -3);
+
+  // If the current node has children, recursively process each child node
+  if (Array.isArray(tree.children)) {
+    tree.children.forEach((child) => removeLast3LettersFromNames(child));
+  }
+}
+
 const {nodes, edges} = constructGraphData()
 
 export function getStaticProps({params}) {
     const note = getSinglePost(params.id);
     const tree = convertObject(getDirectoryData());
-    const flattenNodesMD = getFlattenArray(tree)
-    const flattenNodes = flattenNodesMD.map((item) => {
-      // Remove the last 3 characters from the "name" entry
-      const modifiedName = item.name.slice(0, -3);
-      
-      // Return a new object with the modified "name" entry and other properties as-is
-      return {
-        ...item,
-        name: modifiedName,
-      };
-    });
+
+    removeLast3LettersFromNames(tree)
+
+    const flattenNodes = getFlattenArray(tree)
 
     console.log(flattenNodes)
 
