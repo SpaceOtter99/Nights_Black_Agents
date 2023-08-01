@@ -61,7 +61,9 @@ At the far side of the room is the silhouette of a man in [[NATO]] military dres
 The man says "Wait" in [[Romania|Romanian]]. "I have something for you to deliver to your master". He walks over and rifles through some documents in a filing cabinet. "Take these, very securely, to your master. Great importance that this is not fall into the wrong hands". He sounds like he is starting to slur his words, almost as if he has taken drugs. He hands [[Pierre]] a cold-war era folder with documents in. [[Pierre]] motions to ask if he can leave. The man inhales deeply.
 
 >"You are not Paul"
+>
 >"Paul couldn't make it today"
+>
 >"Show me your face"
 
 [[Pierre]] bluffs that he is going to take his helmet off and attempts to bolt for the door, and the man is completely blindsided. [[Pierre]] seems to think that the man is on Heroin from how he is acting. [[Pierre]], terrified, goes to sprint out the door and up the stairs, but the man catches up and grabs [[Pierre]]'s belt. The man's eyes are bloodshot, and his face animalisticaly contorts into almost a bird-like or ghoulish form as he screams and reaches for [[Pierre]]'s face. 

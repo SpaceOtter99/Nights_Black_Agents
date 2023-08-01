@@ -128,7 +128,7 @@ a:hover {
     flex-direction: column;
 }
 
-blockquote {
+.markdown-rendered blockquote {
     background: rgba(0,0,0,.1);
     display: block;
     padding: 1em 40px;
@@ -136,6 +136,9 @@ blockquote {
     border-left: 10px solid rgba(0,0,0,.1);
 }
 
+.markdown-rendered blockquote p+p {
+    text-indent: 0;
+}
 
 .theme-light {
     --background-primary: white;
