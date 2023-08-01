@@ -6,4 +6,6 @@ tags: human, PC
 ---
 # Pierre
 
-Potentially [[France|French]]
+Potentially [[France|French]]. 
+
+O+ blood type.

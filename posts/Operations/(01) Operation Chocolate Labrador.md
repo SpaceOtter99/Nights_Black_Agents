@@ -78,3 +78,58 @@ Upon entering, a broom falls out of the door, and [[Firebolt]] notes several sup
 Two days after arriving, at night, [[Firebolt]] and [[Pierre]] break into [[Malcolm Lennart|Lennart's]] house while [[Dazzer]] keeps watch. They successfully retrieve the laptop, narrowly avoiding encountering an unmarked police car during their escape. The group then travels to a drop site outside [[Bosnia|Gostilj]] in the [[Serbia|Serbian]] zone of [[Bosnia]] for an exchange with a contact provided by [[Georg Rudek|Rudek]] named [[Anton Dedopovich]]. However, they are ambushed by an enemy sniper and armed thugs employed by him. A firefight ensues, resulting in the elimination of the attackers and [[Anton Dedopovich|Anton]].
 
 Regrouping, [[The Agents]] briefly investigate a nearby mausoleum, warded with many local superstitions including garlic and christian imagery. They leave on [[Dazzer|Dazzer's]] advice, ignoring the smell of burning flesh and scratching noises. [[The Agents]] then decide to investigate further in [[Serbia|Belgrade]], [[Serbia]] and then [[Italy|Naples]], [[Italy]], to further explore the laptop's contents and unravel the truth behind them. They inform their employers of what happened, and [[Leuchtturm]] of their plans, and intend to find out more about the stolen data and the suspicious activities surrounding [[Malcolm Lennart|Lennart's]] transfer from the [[NATO]] base in [[Italy|Naples]].
+
+
+## Session 2
+[[The Agents]] stop at a gas station and spend some time and rest, replenishing themselves. [[Dazzer]] is healed by [[Pierre]] and [[Firebolt]]. [[Leuchtturm]] gets a phone call to update and arrange a meeting point. We put some [Serbian EDM](https://open.spotify.com/playlist/7j1RtQvzcf3o6dCgWAMvOv?si=7ce2800a55b047e9) on the radio to cover up the call.
+
+### Contact
+
+[[Firebolt]] calls [[Georg Rudek]] to update him on what happened. He tells the group to sit tight and that he'll send a courier to pick up the laptop. He seems very angry with [[Anton Dedopovich]], and says he'll also sort out the rest of the funds.
+
+[[Leuchtturm]], going by [[Leuchtturm|Anders]], arranged to meet us in [[Serbia|Belgrade]]. We are going to give him the files there. [[Leuchtturm]] takes a plane from [[Germany|Berlin]] to [[Serbia|Belgrade]]. [[The Agents]] drive across the border, using [[Dazzer]]'s cover as a people smuggler and some money. At the border, [[Leuchtturm]] is held after his passport is stamped. He's asked questions about his travel before being allowed through. He's likely been placed on a watch list. We meet in a café in eastern [[Serbia|Belgrade]], where we receive a text from [[Georg Rudek|Rudek]]:
+> [09:43] Stay put, R
+
+[[Dazzer]] arranges for us to stay at a house outside of town. The person is involved with the [[Serbian Mafia]], and responds well to [[Dazzer]]'s Russian. We get another text as [[Georg Rudek|Rudek]] sends his next text.
+> [11:42] Extraction of laptop being organised now. R
+
+[[Leuchtturm]] hacks into the blockchain to establish where [[Dazzer]] and [[Pierre]] were paid from. Narrowly avoiding detection by an holistic alarm system, he establishes a link to a computer in a [[Serbia|Serbian]] PC system in western [[Serbia|Belgrade]]. The name from the computer is "[[Danilo Brigovic|Паук]]", or "[[Danilo Brigovic|The Spider]]". It's not standard behaviour for police to make such payments, but it's relatively standard corrupt police behaviour. We get another text:
+> [13:43] No word yet. Any noise? R
+
+We see a protest on the edge of town, likely a nationalist group, anti-EU. [[Dazzer]] talks to the [[Serbian Mafia]] member whose house we are staying at. We discover he's selling at the [[Serbia|Andergraund Klub]] tonight, and likely to be on our side in any conflict if his pockets are well lined. Meanwhile, [[Leuchtturm|Anders]] opens a webcam pointing at the computer where the payments were wired from. 
+
+He sees a middle aged, thick-necked man with bad fake tan. He seems to be a low rank, not chief of the police station. [[Firebolt]] routes his communications through an [[Firebolt Communications Router|external contact]] to hide their location, and messages [[Georg Rudek|Rudek]].
+
+> [13:48] No word, no noise. What's taking so long? F
+> [13:48] Something about assets being tied up, they are outsourcing. R
+> [13:49] DO NOT DAMAGE THE CARGO. R
+
+### Trouble
+
+We realise that our call to [[Georg Rudek|Rudek]] likely led to a cascade of calls and meetings between other people and their bosses and their assets etc. [[Leuchtturm|Anders]] hacks into the cell phone records to see some spiking traffic. The phone number we were given to call to inform when the job was done is very high activity. Cross referencing, it seems like [[Danilo Brigovic|The Spider]] and the computer he was using are all linked to this number. We believe that the cop we can see is likely [[Danilo Brigovic|The Spider]]. We also establish that [[Danilo Brigovic|The Spider]] has approximately $4 million inside of it. 
+
+> [15:43] Drop organised for Belgrade *(GPS Coordinates for a western suburb attached)*
+
+It looks like the dead drop location is by a sewer entrance that leads to old war tunnels that in turn connect to the [[Serbia|Andergraund Klub]]. It is notable that [[Georg Rudek|Rudek]] did not put his initial at the end of that text. [[Firebolt]] sends a coded text to [[Georg Rudek|Rudek]] to establish that it is definitely him. He has options to respond in code to say he hasn't been compromised, or that he has but is still alive. He does neither - indicating it is not him on the other end. 
+
+[[The Agents]] share their stories about why they're here. [[Firebolt]]'s mentor was killed after [[Firebolt]] shot a contact called [[The European]] in the head. [[The European]] took the bullet out, and pressed it into [[Firebolt]]'s mentor's head, killing him. [[Leuchtturm]] noticed certain IPs and phone numbers that were always taken off of him whilst he was working at the secret service. When he investigated - even with all of his amazing technical skills - he was instantly fired. [[Dazzer]] believes his boss is the same kind of thing as [[The European]].
+
+> [16:02] Where are you now?
+> [16:03] En route. F
+
+[[The Agents]] decide that since [[Georg Rudek|Rudek]] has been compromised, whoever the enemy is is already mad at them and onto them. We destroy the laptop beyond any hope of recovery or repair, booby trap the house to explode to dust on demand, and decide to set off to [[Italy|Naples]]. 
+
+On our way out of [[Serbia|Belgrade]], we see that a roadblock has been placed. [[Firebolt]] describes the tattoos, and [[Dazzer]] notes that they sound like [[Serbian Mafia|Nasa Stvar]] members. We approach the checkpoint, and [[Dazzer]] is taken out of the car and patted down. The [[Serbian Mafia|Nasa Stvar]] members ask him questions about why he's here, where he's going etc. He says he's from a nearby town and going home.
+
+The [[Serbian Mafia|Nasa Stvar]] grunt asks him to stay "for a job". In Albanian, he then radios "Match at checkpoint 5". [[Pierre]], understanding Albanian. give the signal for trouble by saying [Canarie](https://translate.google.com/?sl=fr&tl=en&text=Canari&op=translate). [[Leuchtturm|Anders]] throws the car into reverse from the passenger seat, and kills the grunt. 
+
+### Car Chase
+We start driving off, and the other [[Serbian Mafia|Nasa Stvar]] members get on their bikes to follow us. [[Dazzer]] makes a quick get away and beats the gangsters on the off, getting ahead initially. We head towards the motorway, but by being able to swerve through traffic on bikes more the gangsters gain on us. [[Firebolt]] aims for one of the truck's tires. It bursts, and sparks start flying as the truck turns the wrong way, skidding, then flipping. 
+
+[[Dazzer]] skids right across the dual carriageway, bumping into multiple cars on the way and jostling everybody, but the move goes very well. One of the bikes pulls to a stop on the highway, and gets out a handgun to start shooting. [[Pierre]] realises we are about to be shot, kicks the driver's seat, and temporarily slows the car as a bullet hits the boot. We drive on. 
+
+[[Firebolt]] throws out a homemade tripwire bomb which lights the remaining motorcyclist on fire. [[Pierre]] encourages [[Dazzer]], improving his driving. [[Dazzer]] performs an incredible swerve manoeuvre to lose him. A few minutes later we hear police sirens. 
+
+We see a man step out into the road. A truck is approaching him at high speed. It hits, stopping and curving around him. He steps away from it and continues looking at us. We are all stressed by this. They were walking with purpose in the direction they had been going. We remember his face. 
+
+Luckily, [[Firebolt]], with the help of [[Leuchtturm|Anders]] and [[Pierre]], set up a camera system ahead of time. It involved infrared, and was comprehensive, and so will have a recording of the man. [[Leuchtturm|Anders]] gets a copy of this. Later, when we stop, [[Leuchtturm]] looks up the image using a custom script to find a match. We discover that he is [[Dusko Popov]]. Additionally, he shows up as incredibly cold on the infrared. We steal another car and drive on, heading towards [[Italy|Naples]] via [[Croatia]]. 

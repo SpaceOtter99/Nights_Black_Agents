@@ -1,0 +1,3 @@
+After [[World War Two]] a number of smaller states in the Balkans combined into one large state: [[Balkan War|Yugoslavia]]. By the early 90s, they had all had enough with each other, and went to war. 
+
+[[Serbia]] was the main agressor, and still holds the largest piece of former [[Balkan War|Yugoslavia]] in addition to the capital, [[Serbia|Belgrade]].  [[Serbia]] still has conflicts between [[Bosnia]] and [[Kosovo]] over things such as territory and independence.
