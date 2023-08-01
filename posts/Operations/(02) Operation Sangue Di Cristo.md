@@ -6,7 +6,7 @@ We drive to [[Italy]] via [[Slovenia]], encountering no issues at the borders. A
 
 [[Dazzer]] stays overnight, where only one truck arrives, but also later leaves - it is not refrigerated though. The missing truck from yesterday also left at 7AM in the morning. [[Pierre]] and [[Firebolt]] head off to investigate the [[VCA]] to check the information from the bike. After queuing for a long time, [[Pierre]] cites a freedom of information request to avoid queuing again for a longer time. The bike is a government vehicle so we can't get all the information, but we are able to get some information on the company that owns it.
 
-We are given the address of [[Italy|Ospedale S. Maria degli Incurabili]] ("Hospital of the Incurables"). [[Pierre]] fakes accessing from an internal domain and gets access to all of their records thanks to poor cyber security. However, the records only go back to 2004. [[Firebolt]] calls in a favour from a contact, [[Hans]], who is a member of the German Archaeological Society. He takes a ground-penetrating scanner to the graveyard where Popov is supposed to be interred. We should get the data back in 2 days.
+We are given the address of [[Italy|Ospedale S. Maria degli Incurabili]] ("Hospital of the Incurables"). [[Pierre]] fakes accessing from an internal domain and gets access to all of their records thanks to poor cyber security. However, the records only go back to 2004. [[Firebolt]] calls in a favour from a contact, [[Hans]], who is a member of the German Archaeological Society. He takes a ground-penetrating radar scanner to the graveyard where Popov is supposed to be interred. We should get the data back in 2 days.
 
 [[Pierre]] and [[Firebolt]] go to stake out [[Italy|Ospedale S. Maria degli Incurabili]]. The hospital has a number of unmarked cars, in addition to two parked emergency bikes. In addition to a front entrance to a pharmacy, there is a front desk to a hospital run by nuns and a chapel. These are all publicly accessible. Not all buildings have a clear purpose. We also see that there a number of articles written by doctors there, which implies this is also a research hospital.
 
@@ -34,12 +34,12 @@ The pair use some interrogation techniques that [[Firebolt]] was taught to resis
 We knock 3 times, one for the father, one for the son and one for the holy ghost. To [[Noble Jump]]. We take the blood into the sanctum to the cardinal, and you must not look at him. Do not look in his eyes. They keep demons within their souls and this blood reinforces them. [[Firebolt]] and [[Dazzer]] manage to avoid losing any stability through this harrowing supernatural experience.
 
 [[Dazzer]] continues pressing the man to know what the demons he mentions are. 
->They are the Nephilim they are the accursed and the fallen they are Beelzebub and goliath they are incurable they are infallible they are lords they are beyond realms of physicality and spirituality they are legion they are Asmodeus. They are in all the cardinals
+>"They are the Nephilim they are the accursed and the fallen they are Beelzebub and goliath they are incurable they are infallible they are lords they are beyond realms of physicality and spirituality they are legion they are Asmodeus. They are in all the cardinals"
 
 [[Pierre]] makes it to the [[NATO]] base. The soldiers walking around pay him no mind. [[Pierre]] takes a quick peek inside the gilded wooden box in the back of the bike. Inside is a large syringe made of dull matte plastic, containing blood. As he looks at it he feels as though he is crying and blood is seeping from his ears and hands and then he closes the box and is fine. [[Pierre]] proceeds on to the bunker, marked with a feather flag describing the [[Noble Jump]] 2023 demonstration. He knocks three times on the hard steel door and it creaks open. Anyone who has noticed [[Pierre]] promptly looks the other way. He proceeds down a set of stairs to another door, which is already open. 
 
 The biker keeps babbling to [[Firebolt]] and [[Dazzer]]
->The holy order of the [[Knights of Malta]] we are a shield against the immaterial we are a shield we will bring salvation to the people and keep them in darkness we will protect them we will shroud them and protect them. 
+>"The holy order of the [[Knights of Malta]] we are a shield against the immaterial we are a shield we will bring salvation to the people and keep them in darkness we will protect them we will shroud them and protect them."
 
 [[Dazzer]] asks what would happen if the normal blood ran out. The man replies "Christ is in all of us". After more prompting he says that the blood is from the bishop, Vitali Udinesi, and that it is purer. We push more ketamin on the man, who we find is named Paul, and he drifts to drugged sleep.
 
@@ -50,8 +50,8 @@ At the far side of the room is the silhouette of a man in [[NATO]] military dres
 The man says "Wait" in [[Romania|Romanian]]. "I have something for you to deliver to your master". He walks over and rifles through some documents in a filing cabinet. "Take these, very securely, to your master. Great importance that this is not fall into the wrong hands". He sounds like he is starting to slur his words, almost as if he has taken drugs. He hands [[Pierre]] a cold-war era folder with documents in. [[Pierre]] motions to ask if he can leave. 
 
 >"You are not Paul"
-"Paul couldn't make it today"
-"Show me your face"
+>"Paul couldn't make it today"
+>"Show me your face"
 
 [[Pierre]] bluffs that he is going to take his helmet off and attempts to bolt for the door, and the man is completely blindsided. [[Pierre]] seems to think that the man is on Heroin from how he is acting. [[Pierre]], terrified, goes to sprint out the door and up the stairs, but the man catches up and grabs [[Pierre]]'s belt. The man's eyes are bloodshot, and his face animalisticaly contorts into almost a bird-like or ghoulish form as he screams and reaches for [[Pierre]]'s face. 
 
