@@ -1,8 +1,15 @@
-We approach the [[Croatia|Croatian]] border. [[Dazzer]] calls in a favour with the [[Serbian Mafia|Nasa Stvar]] using his connections to the [[Russian Mafia]]. A large group of [[Serbian Mafia|Nasa Stvar]] members begin driving around in similar cars and group matchups to us to distract the police from noticing us. [[Dazzer]] also goes to bribe the [[Croatia|Croatian]] border guardsman with £10,000. He asks what we're doing in [[Croatia]], and [[Dazzer]] says that we're just passing through, using his Cop Talk proficiency to explain exactly what we've just done - e.g. that we're foreigners who've passed through [[Serbia]] on the way to [[Italy|Naples]]. He tries to extort more money from us and [[Dazzer|Daz]] pays him another £25,000 in crypto. 
+---
+aliases:
+jobs:
+allegiance: unknown
+tags: 
+---
+# (02) Operation Sangue Di Cristo
+## Session 1
+We approach the [[Croatia|Croatian]] border. [[Dazzer]] calls in a favour with the [[Serbian Mafia|Nasa Stvar]] using his connections to the [[Russian Mafia]]. A large group of [[Serbian Mafia|Nasa Stvar]] members begin driving around in similar cars and group matchups to us to distract the police from noticing us. [[Dazzer]] also goes to bribe the [[Croatia|Croatian]] border guardsman with £10,000. He asks what we're doing in [[Croatia]], and [[Dazzer]] says that we're just passing through, using his Cop Talk proficiency to explain exactly what we've just done - e.g. that we're foreigners who've passed through [[Serbia]] on the way to [[Italy|Naples]]. He tries to extort more money from us and [[Dazzer|Daz]] pays him another £25,000 in crypto. We drive to [[Italy]] via [[Slovenia]], encountering no issues at the borders. After a picturesque drive south past [[Italy|Rome]], we reach [[Italy|Naples]]. 
 
-We drive to [[Italy]] via [[Slovenia]], encountering no issues at the borders. After a picturesque drive south past [[Italy|Rome]], we reach [[Italy|Naples]]. The NATO base is out to the west of [[Italy|Naples]], approximately 30 minutes away. The base is more of an administrative centre than a military base.
-
-[[Firebolt]] proposes sneaking into the base pretending to be blood donors, whereas [[Dazzer]] proposes a stakeout so they get more information first. We do a stakeout of the area, basing ourselves at a restaurant, and note that most employers carpool in in high end business cars. A bike (BMW R-1200c) labelled "emergency blood" travels to the front of the queue and passes without many checks. 7 ambulance-style refrigerated trucks also visit, 6 of which leave again -- however, we have no idea how many contained blood. Both the last truck of the day, and the bike, do not leave. [[Firebolt]] notes that emergency notes that the blood bikes normally leave at speed instead of arrive at speed. 
+### Reconnaisance
+The NATO base is out to the west of [[Italy|Naples]], approximately 30 minutes away. The base is more of an administrative centre than a military base. [[Firebolt]] proposes sneaking into the base pretending to be blood donors, whereas [[Dazzer]] proposes a stakeout so they get more information first. We do a stakeout of the area, basing ourselves at a restaurant, and note that most employers carpool in in high end business cars. A bike (BMW R-1200c) labelled "emergency blood" travels to the front of the queue and passes without many checks. 7 ambulance-style refrigerated trucks also visit, 6 of which leave again -- however, we have no idea how many contained blood. Both the last truck of the day, and the bike, do not leave. [[Firebolt]] notes that emergency notes that the blood bikes normally leave at speed instead of arrive at speed. 
 
 [[Dazzer]] stays overnight, where only one truck arrives, but also later leaves - it is not refrigerated though. The missing truck from yesterday also left at 7AM in the morning. [[Pierre]] and [[Firebolt]] head off to investigate the [[VCA]] to check the information from the bike. After queuing for a long time, [[Pierre]] cites a freedom of information request to avoid queuing again for a longer time. The bike is a government vehicle so we can't get all the information, but we are able to get some information on the company that owns it.
 
@@ -20,6 +27,8 @@ We realise we can tap the phone wire, so [[Pierre]] dresses as an electrician an
 Early in the morning, we get a phone call from the hospital that starts with "da?" (Which could be from many European languages). "We have a request, ETA is 23 minutes". We see a gilded wooden box loaded into the blood box on the bike. There is a [[Malta|Maltese]] cross on the bike. Luckily, [[Firebolt]] prepared for this. He got [[Pierre]] to plant tracking bugs on the motorbike. The bike goes to the [[NATO]] [[Italy|Naples]] base, stays for roughly 4 hours, and then comes back the shortest route to [[Italy|Ospedale S. Maria degli Incurabili]]. We also realise that the air traffic from our stakeout so far doesn't seem to match the emergency deliveries. 
 
 On the news that evening, we hear the there has been a dead [[NATO]] general discovered in [[Bosnia|Sarajevo]]. We know that it's radiation poisoning from our general contacts. 
+
+### Infiltration
 
 [[Firebolt]] establishes the best spot to intercept him is at a hairpin at the start of a downhill going the wrong way down a one way street. The biker will likely be going quite slow. Additionally, they make a copy of the driver's clothes. A phone call for the bike doesn't come this day. The following day, at quarter to 10, another call comes through, with exactly the same wording as previously. 
 
@@ -41,13 +50,15 @@ We knock 3 times, one for the father, one for the son and one for the holy ghost
 The biker keeps babbling to [[Firebolt]] and [[Dazzer]]
 >"The holy order of the [[Knights of Malta]] we are a shield against the immaterial we are a shield we will bring salvation to the people and keep them in darkness we will protect them we will shroud them and protect them."
 
-[[Dazzer]] asks what would happen if the normal blood ran out. The man replies "Christ is in all of us". After more prompting he says that the blood is from the bishop, Vitali Udinesi, and that it is purer. We push more ketamin on the man, who we find is named Paul, and he drifts to drugged sleep.
+[[Dazzer]] asks what would happen if the normal blood ran out. The man replies "Christ is in all of us". After more prompting he says that the blood is from the bishop, [[Vitali Udinesi]], and that it is purer. We push more ketamine on the man, who we find is named Paul, and he drifts to drugged sleep.
+
+### Where the blood goes
 
 [[Pierre]] enters a room swathed in candlelight. On it is a map of Europe, with a number of nodes that seem unrelated, apart from one in [[Italy|Naples]] and one in [[Serbia|Belgrade]]. [[Pierre]] commits the map to memory -- other nodes include [[England|London]], [[Manchester]], Several places in [[Romania]], several cities in [[Ukraine]], Lebanon, [[Lebanon|Beirut]], [[Palestine]], [[Egypt|Cairo]] and [[Italy|Rome]]. 
 
 At the far side of the room is the silhouette of a man in [[NATO]] military dress. [[Pierre]] fakes a bow but continues looking at him. The man has a large moustache and looks similar to Mussolini (but importantly, is not). The man opens the box, takes the syringe out without incident, injects it under his tongue. His eyes roll back in his head and he gets an erection. 
 
-The man says "Wait" in [[Romania|Romanian]]. "I have something for you to deliver to your master". He walks over and rifles through some documents in a filing cabinet. "Take these, very securely, to your master. Great importance that this is not fall into the wrong hands". He sounds like he is starting to slur his words, almost as if he has taken drugs. He hands [[Pierre]] a cold-war era folder with documents in. [[Pierre]] motions to ask if he can leave. 
+The man says "Wait" in [[Romania|Romanian]]. "I have something for you to deliver to your master". He walks over and rifles through some documents in a filing cabinet. "Take these, very securely, to your master. Great importance that this is not fall into the wrong hands". He sounds like he is starting to slur his words, almost as if he has taken drugs. He hands [[Pierre]] a cold-war era folder with documents in. [[Pierre]] motions to ask if he can leave. The man inhales deeply.
 
 >"You are not Paul"
 >"Paul couldn't make it today"
