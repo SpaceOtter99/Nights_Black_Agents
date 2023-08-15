@@ -101,7 +101,9 @@ We see a protest on the edge of town, likely a nationalist group, anti-EU. [[Daz
 He sees a middle aged, thick-necked man with bad fake tan. He seems to be a low rank, not chief of the police station. [[Firebolt]] routes his communications through an [[Firebolt Communications Router|external contact]] to hide their location, and messages [[Georg Rudek|Rudek]].
 
 > [13:48] No word, no noise. What's taking so long? F
+> 
 > [13:48] Something about assets being tied up, they are outsourcing. R
+> 
 > [13:49] DO NOT DAMAGE THE CARGO. R
 
 ### Trouble
@@ -115,6 +117,7 @@ It looks like the dead drop location is by a sewer entrance that leads to old wa
 [[The Agents]] share their stories about why they're here. [[Firebolt]]'s mentor was killed after [[Firebolt]] shot a contact called [[The European]] in the head. [[The European]] took the bullet out, and pressed it into [[Firebolt]]'s mentor's head, killing him. [[Leuchtturm]] noticed certain IPs and phone numbers that were always taken off of him whilst he was working at the secret service. When he investigated - even with all of his amazing technical skills - he was instantly fired. [[Dazzer]] believes his boss is the same kind of thing as [[The European]].
 
 > [16:02] Where are you now?
+> 
 > [16:03] En route. F
 
 [[The Agents]] decide that since [[Georg Rudek|Rudek]] has been compromised, whoever the enemy is is already mad at them and onto them. We destroy the laptop beyond any hope of recovery or repair, booby trap the house to explode to dust on demand, and decide to set off to [[Italy|Naples]]. 
