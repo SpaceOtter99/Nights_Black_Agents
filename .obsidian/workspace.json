@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
+                "file": "posts/Organisations/The Board of Directors.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
+                "file": "posts/Organisations/The Board of Directors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
+                "file": "posts/Organisations/The Board of Directors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md"
+                "file": "posts/Organisations/The Board of Directors.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "a21e435ff8d3b8f6",
   "lastOpenFiles": [
-    "posts/NPCs/Cover NPC/Donald Carol.md",
     "posts/Operations/(02) Operation Sangue Di Cristo.md",
+    "posts/Operations/(01) Operation Chocolate Labrador.md",
+    "-template/Metadata.md",
+    "posts/NPCs/Cover NPC/Donald Carol.md",
     "Ukraine.md",
     "Odesa.md",
     "posts/Organisations/Russian Mafia.md",
@@ -171,7 +173,6 @@
     "posts/Countries/Sardinia.md",
     "posts/NPCs/Christoph Noebauer.md",
     "posts/index.md",
-    "posts/Operations/(01) Operation Chocolate Labrador.md",
     "posts/Countries/Bosnia.md",
     "posts/Organisations/Knights of Malta.md",
     "posts/NPCs/Dusko Popov.md",
@@ -184,7 +185,6 @@
     "posts/NPCs/Cover NPC/Hans.md",
     "posts/Operatives/Dazzer.md",
     "posts/Operatives/Firebolt.md",
-    "posts/Operatives/Pierre.md",
     "posts/Major Events",
     "NightsBlackAgents",
     "NPCs/Fight NPCs",
