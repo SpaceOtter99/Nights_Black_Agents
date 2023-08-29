@@ -1,0 +1,1 @@
+[[Donald Carol]], an [[America|American]], has a [[Russia|Russian]] passport. Based in Crimea, is a go-to military expert asset in the Crimea. Not in [[Ukraine|Odesa]] usually.

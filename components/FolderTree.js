@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useRouter } from 'next/router';
 
 const TreeNode = ({ node, onSelect }) => {
-  const [isExpanded, setIsExpanded] = useState(true);
+  const [isExpanded, setIsExpanded] = useState(false);
   const hasChildren = Array.isArray(node.children) && node.children.length > 0;
   const router = useRouter();
 

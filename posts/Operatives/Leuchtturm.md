@@ -1,5 +1,5 @@
 ---
-aliases: Lighthouse
+aliases: Lighthouse, Anders
 jobs:
 allegiance: unknown
 tags: human, PC

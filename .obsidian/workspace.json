@@ -4,27 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc1628664384f2b",
+        "id": "91079b9dbcae54bc",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cc2e22f45422b4",
+            "id": "a21e435ff8d3b8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Operations/(01) Operation Chocolate Labrador.md",
+                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "dca1f80cc2ed7efd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Operations/(01) Operation Chocolate Labrador.md",
+                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Operations/(01) Operation Chocolate Labrador.md",
+                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Operations/(01) Operation Chocolate Labrador.md"
+                "file": "posts/Operations/(02) Operation Sangue Di Cristo.md"
               }
             }
           },
@@ -150,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,34 +157,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f7cc2e22f45422b4",
+  "active": "a21e435ff8d3b8f6",
   "lastOpenFiles": [
-    "posts/Operatives/Firebolt.md",
-    "posts/Operations/(01) Operation Chocolate Labrador.md",
-    "posts/Operatives/Dazzer.md",
-    "posts/Operatives/Pierre.md",
+    "posts/NPCs/Cover NPC/Donald Carol.md",
+    "posts/Operations/(02) Operation Sangue Di Cristo.md",
+    "Ukraine.md",
+    "Odesa.md",
+    "posts/Organisations/Russian Mafia.md",
+    "posts/Organisations/The Board of Directors.md",
+    "posts/Major Events/Noble Jump.md",
+    "posts/Countries/Balkans.md",
+    "sùrbiles.md",
+    "posts/Countries/Sardinia.md",
+    "posts/NPCs/Christoph Noebauer.md",
     "posts/index.md",
-    "index.md",
-    "Organisations/Russian Mafia.md",
-    "Countries/Austria.md",
-    "Operations/(01) Operation Chocolate Labrador.md",
-    "Operatives/Dazzer.md",
-    "Organisations/Serbian Mafia.md",
-    "Organisations/NATO.md",
-    "Organisations/Canadian Governmental Groups.md",
-    "Operatives/The Agents.md",
-    "Operatives/Pierre.md",
-    "Operatives/Leuchtturm.md",
-    "Operatives/Firebolt.md",
-    "NPCs/Malcolm Lennart.md",
-    "NPCs/Georg Rudek.md",
-    "NPCs/Anton Dedopovich.md",
-    "NPCs/Fight NPCs/Vladek.md",
-    "NPCs/Fight NPCs/Slobodan.md",
-    "NPCs/Cover NPC/Agent Lander.md",
-    "Countries/Switzerland.md",
-    "Countries/Serbia.md",
-    "Countries/Russia.md",
+    "posts/Operations/(01) Operation Chocolate Labrador.md",
+    "posts/Countries/Bosnia.md",
+    "posts/Organisations/Knights of Malta.md",
+    "posts/NPCs/Dusko Popov.md",
+    "American.md",
+    "posts/Organisations/VCA.md",
+    "posts/Organisations/Vampires.md",
+    "posts/Countries/Italy.md",
+    "posts/NPCs/Cover NPC/Firebolt Communications Router.md",
+    "posts/Countries/Malta.md",
+    "posts/NPCs/Cover NPC/Hans.md",
+    "posts/Operatives/Dazzer.md",
+    "posts/Operatives/Firebolt.md",
+    "posts/Operatives/Pierre.md",
+    "posts/Major Events",
     "NightsBlackAgents",
     "NPCs/Fight NPCs",
     "CSIC.css",
@@ -199,7 +194,6 @@
     "-template",
     "NPCs",
     "NPCs/Cover NPC",
-    "Countries",
-    "Operatives"
+    "Countries"
   ]
 }
